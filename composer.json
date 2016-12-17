@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Fork de la libreria php-sdk de MercadoLibre",
     "keywords": ["mercadolibre", "mercadolibre sdk", "mercadolibre php sdk"],
-    "homepage": "https://github.com/alejoasotelo/php-sdk/",
+    "homepage": "https://github.com/alejoasotelo/mercadolibre-php-sdk/",
     "license": "MIT",
     "authors": [
         {
