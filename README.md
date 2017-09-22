@@ -24,8 +24,7 @@
 
 ## How do I install it?
 
-       clone repository
-       https://github.com/mercadolibre/php-sdk.git
+       composer require alejoasotelo/mercadolibre-php-sdk
 
 ## How do I use it?
 
