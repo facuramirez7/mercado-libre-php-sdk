@@ -1,5 +1,5 @@
 {
-    "name": "facuramirez/mercadoLibre-php-sdk",
+    "name": "facuramirez/mercado-libre-php-sdk",
     "type": "library",
     "description": "Fork de la libreria php-sdk de MercadoLibre",
     "keywords": ["mercadolibre", "mercadolibre sdk", "mercadolibre php sdk"],
