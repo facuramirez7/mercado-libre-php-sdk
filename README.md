@@ -24,7 +24,7 @@
 
 ## How do I install it?
 
-       composer require alejoasotelo/mercadolibre-php-sdk
+       composer require facuramirez7/mercadoLibre-php-sdk
 
 ## How do I use it?
 
